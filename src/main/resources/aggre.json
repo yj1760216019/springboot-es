@@ -1,0 +1,127 @@
+{
+  "metaData": null,
+  "buckets": [
+    {
+      "docCount": 1,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 0
+    },
+    {
+      "docCount": 0,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 5
+    },
+    {
+      "docCount": 0,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 10
+    },
+    {
+      "docCount": 0,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 15
+    },
+    {
+      "docCount": 0,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 20
+    },
+    {
+      "docCount": 0,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 25
+    },
+    {
+      "docCount": 0,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 30
+    },
+    {
+      "docCount": 1,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 35
+    },
+    {
+      "docCount": 0,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 40
+    },
+    {
+      "docCount": 2,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 45
+    },
+    {
+      "docCount": 1,
+      "aggregations": [
+        {
+          "metaData": null,
+          "name": "max_expense"
+        }
+      ],
+      "keyed": false,
+      "key": 50
+    }
+  ],
+  "name": "result"
+}

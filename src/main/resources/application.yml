@@ -1,0 +1,9 @@
+server:
+  port: 7009
+  servlet:
+    context-path: /es
+spring:
+  data:
+    elasticsearch:
+      cluster-nodes: 127.0.0.1:9300
+      cluster-name: my-application
